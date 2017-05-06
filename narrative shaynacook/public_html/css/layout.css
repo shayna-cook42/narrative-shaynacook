@@ -3,11 +3,12 @@
 	margin-top: 50px;
 	margin-right: auto;
 	margin-bottom: 1em;
-	margin-left: 50px;
+	margin-left: auto;
 	width: 90%;
 	max-width: 800px;
 	padding: 2em;
 	background-color: #c2c2c2;
+	border: 2px solid #000000;
 	float: center;
 
 
@@ -18,14 +19,20 @@
 .page-home {
 	border: 10px solid #eee;
 	float: center;
-	width: 50%
+	width: 50%;
+	background-color: #c2c2c2;
 }
 
+.title {
 
+float: center;
+width: 100%
+}
 }
 
 /* inside page */
 
 .page-inside .container {
-	border: 1px solid #ffffff;
+	border: 2px solid #ffffff;
+	float: center;
 }
