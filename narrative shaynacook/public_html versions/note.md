@@ -1,0 +1,1 @@
+Put saved versions of the public_html folder in this folder. ZIP compress them if you’d like.

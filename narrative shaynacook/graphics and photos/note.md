@@ -1,0 +1,1 @@
+This folder is for downloaded image files, and for source files for finished images (likely Photoshop or Illustrator).
