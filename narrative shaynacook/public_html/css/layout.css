@@ -7,7 +7,8 @@
 	width: 90%;
 	max-width: 800px;
 	padding: 2em;
-	background-color: #c2c2c2
+	background-color: #c2c2c2;
+	float: center;
 
 
 }
@@ -16,7 +17,7 @@
 
 .page-home {
 	border: 10px solid #eee;
-	float: left;
+	float: center;
 	width: 50%
 }
 
@@ -26,5 +27,5 @@
 /* inside page */
 
 .page-inside .container {
-	border: 1px solid #eee;
+	border: 1px solid #ffffff;
 }

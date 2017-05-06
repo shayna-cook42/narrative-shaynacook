@@ -10,98 +10,12 @@ object {
 	max-width: 100%;
 }
 
-#primary_nav_wrap
-{
-	margin-top:15px
-}
-
-#primary_nav_wrap ul
-{
-	list-style:none;
-	position:relative;
-	float:left;
-	margin:0;
-	padding:0;
-	border: 2px solid #b5925a;
-
-}
-
-#primary_nav_wrap ul a
-{
-	display:block;
-	color: #b5925a;
-	text-decoration:none;
-	font-weight:700;
-	font-size:12px;
-	line-height:32px;
-	font-family: 'Hiraginu Kaku Gothic' Arial sans-serif;
-	border: 2px solid #b5925a;
-
-}
-
-#primary_nav_wrap ul li
-{
-	position:relative;
-	float:left;
-	margin:0;
-	padding:0;
-	border: 2px solid #b5925a;
-
-}
-
-#primary_nav_wrap ul li.current-menu-item
-{
-	background:#b5925a;
-
-}
-
-#primary_nav_wrap ul li:hover
-{
-	background:#251101;
-}
-
-#primary_nav_wrap ul ul
-{
-	display:none;
-	position:absolute;
-	top:100%;
-	left:0;
-	background:#251101;
-	padding:0
-
-
-}
-
-#primary_nav_wrap ul ul li
-{
-	float:none;
-	width:200px
-}
-
-#primary_nav_wrap ul ul a
-{
-	line-height:120%;
-	padding:10px 15px;
-
-}
-
-#primary_nav_wrap ul ul ul
-{
-	top:0;
-	left:100%
-}
-
-#primary_nav_wrap ul li:hover > ul
-{
-	display:block
-}
 
 /* the whole navbar */
 .navbar {
 	margin-left: auto;
 	margin-right: auto;
 	width: 830px;
-	color: #b5925a;
-	border: 2px solid #b5925a;
-	margin-top: 3px;
+	color: #000000;
+	margin-top: 0px;
 }
