@@ -36,3 +36,45 @@ width: 100%
 	border: 2px solid #ffffff;
 	float: center;
 }
+
+
+.toprow
+{
+
+margin-bottom: 5px;
+
+}
+
+.bottomrow
+{
+
+}
+
+
+.cover {
+
+width: 25%;
+float: left;
+padding: 5px;
+
+
+}
+
+
+.coverleft {
+
+margin-left: 12.5%;
+
+
+
+}
+
+
+.coverright {
+
+margin-right: 12.5%;
+
+
+
+
+}
